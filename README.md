@@ -4,10 +4,10 @@ A web application for classifying images using a deep learning model trained on 
 
 ## 🖼️ Screenshots
 ### Main Interface
-![Main Interface](static\images\screenshot.png)
+![Main Interface](static/screenshot.png)
 
 ### Classification Results
-![Results](static\images/screenshot1.png)
+![Results](static/screenshot1.png)
 
 ## 🚀 Features
 
