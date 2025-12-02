@@ -31,14 +31,15 @@ cd Application-CNN
 ```
 
 2. **Create a virtual environment (recommended):**
+```bash
 python -m venv venv
-# On Windows:
 venv\Scripts\activate
-
-3. **Install dependencies:**
+```
+4. **Install dependencies:**
+```bash
 pip install -r requirements.txt
-
-4. **Place your model file**
+```
+6. **Place your model file**
 Train your model and place best_model.keras in /models
 
 
@@ -47,7 +48,7 @@ Train your model and place best_model.keras in /models
 ```bash
 python app.py
 ```
+Open your browser and Navigate to
 ```bash
-Open your browser:
-Navigate to http://localhost:5000
+http://localhost:5000
 ```
