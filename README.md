@@ -40,7 +40,7 @@ Train your model and place best_model.keras in /models
 ```bash
 python app.py
 ```
+Open your browser and Navigate to
 ```bash
-Open your browser:
-Navigate to http://localhost:5000
+http://localhost:5000
 ```
