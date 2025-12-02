@@ -2,6 +2,13 @@
 
 A web application for classifying images using a deep learning model trained on the CIFAR-10 dataset.
 
+## 🖼️ Screenshots
+### Main Interface
+![Main Interface](static\images\screenshot.png)
+
+### Classification Results
+![Results](static\images/screenshot1.png)
+
 ## 🚀 Features
 
 - **Real-time Image Classification**: Upload images and get instant predictions
